@@ -29,7 +29,7 @@ main.exe由pyinstaller生成，供windows用户使用
   
 支持下载该gallery特定的页码，方法是在url后加入()，括号内填入数字，或数字-数字，例如  
 .../**g**/xxx/xxxx/(1-30)  
-.../**g**/xxx/xxxx/()  
+.../**g**/xxx/xxxx/(15)  
 支持填入多个url，url之间以换行或英文逗号分割  
 ### 运行主程序
 运行main.exe  
