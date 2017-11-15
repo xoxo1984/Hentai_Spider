@@ -32,7 +32,7 @@ Hentai_Spider
 .../**g**/xxx/xxxx/(15)  
 支持填入多个url，url之间以换行或英文逗号分割  
 ### 运行主程序
-运行`点我运行.bat` 运行`main.exe`也可以，但出错或完成时会看不到日志；命令行形式就无所谓了  
-运行时/运行后会有一些文件生成，分别是  
+运行`点我运行.bat` 注意：运行`main.exe`也可，但出错或完成时看不到日志；命令行形式就无所谓了  
+运行时/后会生成一些文件，分别是  
 `local_cookies.json` 用于记录cookies形式的用户信息，程序会首先找这个文件，用其中信息来登录  
 `last_gallery_download_task.json` 用于记录上次未完成的gallery中url  
