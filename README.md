@@ -2,9 +2,9 @@ Hentai_Spider
 ===
 ## 项目说明
 爬绅士站的爬虫，主要是自己用  
-项目参考了[xehentai](https://github.com/fffonion/xeHentai)，在此表示感谢  
+项目参考了[xehentai](https://github.com/fffonion/xeHentai)，在此表示感谢  
 `main.exe`由pyinstaller生成，供windows用户使用  
-另，下文中提到的画廊的概念，指绅士站中.../**g**/xxx/xxxx/所代表的那一连串图片  
+另，下文中提到的gallery的概念，指绅士站中.../**g**/xxx/xxxx/所代表的那一连串图片  
 ## 如何使用
 ### 下载
 [到这里](http://pan.baidu.com/s/1pKNLK19)下载压缩包，其中包含`main.exe`，`config.ini`和`task_list.txt`3个文件  
