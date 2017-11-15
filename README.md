@@ -7,7 +7,7 @@ Hentai_Spider
 另，下文中提到的gallery的概念，指绅士站中.../**g**/xxx/xxxx/所代表的那一连串图片  
 ## 如何使用
 ### 下载
-[到这里](http://pan.baidu.com/s/1pKNLK19)下载压缩包，其中包含`main.exe`，`config.ini`和`task_list.txt`3个文件  
+[到这里](http://pan.baidu.com/s/1pKNLK19)下载压缩包，其中包含`点我运行.bat`，`main.exe`，`config.ini`和`task_list.txt`4个文件  
 解压到本地，放到一个目录下  
 ### 配置
 打开`config.ini`  
@@ -32,7 +32,7 @@ Hentai_Spider
 .../**g**/xxx/xxxx/(15)  
 支持填入多个url，url之间以换行或英文逗号分割  
 ### 运行主程序
-运行`main.exe`  
-运行时/运行后会有一些文件生成，分别是  
+运行`点我运行.bat` 运行`main.exe`也可以，但出错或完成时会看不到日志；命令行形式就无所谓了  
+运行时/运行后会有一些文件生成，分别是  
 `local_cookies.json` 用于记录cookies形式的用户信息，程序会首先找这个文件，用其中信息来登录  
 `last_gallery_download_task.json` 用于记录上次未完成的gallery中url  
