@@ -2,7 +2,7 @@ Hentai_Spider
 ===
 ## 项目说明
 爬绅士站的爬虫，主要是自己用  
-项目参考了https://github.com/fffonion/xeHentai，在此表示感谢  
+项目参考了[xehentai](https://github.com/fffonion/xeHentai)，在此表示感谢  
 main.exe由pyinstaller生成，供windows用户使用  
 另，下文中提到的画廊的概念，指绅士站中.../**g**/xxx/xxxx/所代表的那一连串图片  
 ## 如何使用
