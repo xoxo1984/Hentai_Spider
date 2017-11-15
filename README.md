@@ -7,7 +7,8 @@ main.exe由pyinstaller生成，供windows用户使用
 另，下文中提到的画廊的概念，指绅士站中.../**g**/xxx/xxxx/所代表的那一连串图片  
 ## 如何使用
 ### 下载
-下载`main.exe`，`config.ini`和`task_list.txt`3个文件到本地，放到一个目录下  
+[到这里](http://pan.baidu.com/s/1pKNLK19)下载压缩包，其中包含`main.exe`，`config.ini`和`task_list.txt`3个文件  
+解压到本地，放到一个目录下  
 ### 配置
 打开`config.ini`  
 添加绅士站的用户名和密码  
